@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-y-lab-hw1/static/css/main.3dd63826.css",
+    "main.js": "/react-y-lab-hw1/static/js/main.d0040bbe.js",
+    "static/js/787.3d713186.chunk.js": "/react-y-lab-hw1/static/js/787.3d713186.chunk.js",
+    "static/media/image.jpg": "/react-y-lab-hw1/static/media/image.d880ee7ede3125607338.jpg",
+    "static/media/RobotoSlab-Bold.eot": "/react-y-lab-hw1/static/media/RobotoSlab-Bold.46127fa04604cc220475.eot",
+    "static/media/RobotoSlab-Bold.ttf": "/react-y-lab-hw1/static/media/RobotoSlab-Bold.bb6e779454b7f703ab31.ttf",
+    "static/media/RobotoSlab-Regular.eot": "/react-y-lab-hw1/static/media/RobotoSlab-Regular.1c5391095f29a9b05fa6.eot",
+    "static/media/RobotoSlab-Regular.ttf": "/react-y-lab-hw1/static/media/RobotoSlab-Regular.aad1e08c28502abf1381.ttf",
+    "static/media/RobotoSlab-Bold.woff": "/react-y-lab-hw1/static/media/RobotoSlab-Bold.505fa97ca3e3754b7c9b.woff",
+    "static/media/RobotoSlab-Regular.woff": "/react-y-lab-hw1/static/media/RobotoSlab-Regular.f767c6fa128d820e42c6.woff",
+    "static/media/RobotoSlab-Bold.woff2": "/react-y-lab-hw1/static/media/RobotoSlab-Bold.9891352af30e098226f5.woff2",
+    "static/media/RobotoSlab-Regular.woff2": "/react-y-lab-hw1/static/media/RobotoSlab-Regular.d1a730ed78aaa39b7bf2.woff2",
+    "index.html": "/react-y-lab-hw1/index.html",
+    "main.3dd63826.css.map": "/react-y-lab-hw1/static/css/main.3dd63826.css.map",
+    "main.d0040bbe.js.map": "/react-y-lab-hw1/static/js/main.d0040bbe.js.map",
+    "787.3d713186.chunk.js.map": "/react-y-lab-hw1/static/js/787.3d713186.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dd63826.css",
+    "static/js/main.d0040bbe.js"
+  ]
+}
