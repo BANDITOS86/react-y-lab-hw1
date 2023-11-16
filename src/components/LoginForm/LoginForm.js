@@ -47,7 +47,7 @@ const LoginForm = () => {
 
       {authError && <p className="form__auth error-auth">{authError}</p>}
 
-      <button className="form__button btn-reset" type="submit">
+      <button className="form__button btn-reset mobile-tap" type="submit">
         Войти
       </button>
     </form>
