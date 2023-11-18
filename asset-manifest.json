@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-y-lab-hw1/static/css/main.3dd63826.css",
-    "main.js": "/react-y-lab-hw1/static/js/main.d0040bbe.js",
+    "main.css": "/react-y-lab-hw1/static/css/main.0fa573d7.css",
+    "main.js": "/react-y-lab-hw1/static/js/main.86ca0320.js",
     "static/js/787.3d713186.chunk.js": "/react-y-lab-hw1/static/js/787.3d713186.chunk.js",
     "static/media/image.jpg": "/react-y-lab-hw1/static/media/image.d880ee7ede3125607338.jpg",
     "static/media/RobotoSlab-Bold.eot": "/react-y-lab-hw1/static/media/RobotoSlab-Bold.46127fa04604cc220475.eot",
@@ -13,12 +13,12 @@
     "static/media/RobotoSlab-Bold.woff2": "/react-y-lab-hw1/static/media/RobotoSlab-Bold.9891352af30e098226f5.woff2",
     "static/media/RobotoSlab-Regular.woff2": "/react-y-lab-hw1/static/media/RobotoSlab-Regular.d1a730ed78aaa39b7bf2.woff2",
     "index.html": "/react-y-lab-hw1/index.html",
-    "main.3dd63826.css.map": "/react-y-lab-hw1/static/css/main.3dd63826.css.map",
-    "main.d0040bbe.js.map": "/react-y-lab-hw1/static/js/main.d0040bbe.js.map",
+    "main.0fa573d7.css.map": "/react-y-lab-hw1/static/css/main.0fa573d7.css.map",
+    "main.86ca0320.js.map": "/react-y-lab-hw1/static/js/main.86ca0320.js.map",
     "787.3d713186.chunk.js.map": "/react-y-lab-hw1/static/js/787.3d713186.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dd63826.css",
-    "static/js/main.d0040bbe.js"
+    "static/css/main.0fa573d7.css",
+    "static/js/main.86ca0320.js"
   ]
 }
