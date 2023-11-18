@@ -1,9 +1,10 @@
 import React from "react";
-import useLoginForm from "../../hooks/useLoginForm";
+import useLoginForm from "../../hooks/useLoginForm/useLoginForm";
 import "./loginForm.scss";
 
 const LoginForm = () => {
-  const { handleSubmit, register, errors, authError } = useLoginForm();
+  const { handleSubmit, register, errors, authError, isSuccess } =
+    useLoginForm();
 
   return (
     <form className="form" onSubmit={handleSubmit}>
@@ -46,6 +47,10 @@ const LoginForm = () => {
       </label>
 
       {authError && <p className="form__auth error-auth">{authError}</p>}
+
+      {isSuccess && (
+        <p className="form__success success-message">Логин и пароль приняты!</p>
+      )}
 
       <button className="form__button btn-reset mobile-tap" type="submit">
         Войти

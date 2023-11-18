@@ -121,7 +121,8 @@
     }
   }
 
-  &__auth {
+  &__auth,
+  &__success {
     padding: 0 40px;
 
     position: absolute;
@@ -135,6 +136,12 @@
     font-weight: 400;
     color: var(--colors-error);
     user-select: none;
+
+    &.success-message {
+      padding-right: 50px;
+
+      color: var(--colors-success);
+    }
 
     @include mobile {
       padding: 0 20px;
